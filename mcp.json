@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "supabird": {
+      "url": "https://api.supabird.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "supabird",
+  "displayName": "SupaBird",
+  "version": "1.0.0",
+  "description": "Write drafts in your voice or like creators you follow, then schedule them on X. Check today's growth tasks, posting slots, and performance, and optionally cross-post to LinkedIn, Threads, or Bluesky. Research public posts, profiles, trends, lists, and communities, and generate post ideas from your own content or posts you supply.",
+  "author": {
+    "name": "SupaBird",
+    "email": "farid@supabird.io"
+  },
+  "homepage": "https://supabird.io",
+  "repository": "https://github.com/HashedGuy/supabird-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["x", "twitter", "drafts", "scheduling", "linkedin", "threads", "bluesky"],
+  "logo": "assets/logo.svg"
+}
