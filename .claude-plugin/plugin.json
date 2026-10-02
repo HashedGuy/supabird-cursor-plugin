@@ -8,5 +8,6 @@
     "url": "https://supabird.io"
   },
   "license": "MIT",
-  "homepage": "https://supabird.io"
+  "homepage": "https://supabird.io",
+  "privacyPolicyUrl": "https://supabird.io/privacy"
 }
