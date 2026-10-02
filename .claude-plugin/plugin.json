@@ -1,0 +1,12 @@
+{
+  "name": "supabird",
+  "displayName": "SupaBird",
+  "version": "1.0.0",
+  "description": "Write drafts in your voice or like creators you follow, then schedule them on X. Check today's growth tasks, posting slots, and performance, and optionally cross-post to LinkedIn, Threads, or Bluesky.",
+  "author": {
+    "name": "SupaBird OÜ",
+    "url": "https://supabird.io"
+  },
+  "license": "MIT",
+  "homepage": "https://supabird.io"
+}
